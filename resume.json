@@ -1,0 +1,68 @@
+{
+  "name": "Sarath Kumar",
+  "title": "MERN Full Stock Development Learner",
+  "address": "No. 4/552, Kottur Gurusamy Street, Thasildhar Nagar, Madurai - 625020",
+  "location": "Madurai, Tamilnadu",
+  "birthDate": "November 22nd, 1992",
+  "contact": {
+    "email": "sarathpremi221192@gmail.com",
+    "phone": "+91 755 815 5095"
+  },
+  "summary": "Adaptable to any kind of environment and can work under pressure. Good analytical and communication skills. Ability to learn quickly coupled with innovative ideas for problem solving.",
+  "experience": [
+    {
+      "title": "Taxi and Delivery Agent",
+      "company": "Bolt Delivery Partner Pvt.Ltd",
+      "location": "Warszawa, Poland",
+      "dates": "2022 - 2023"
+    },
+    {
+      "title": "Private Security Business Department Officer",
+      "company": "Professional Security System",
+      "location": "United Arab Emirates",
+      "dates": "2016 - 2018"
+    },
+    {
+      "title": "Security Industry Regulatory Agent",
+      "company": "Professional Security System",
+      "location": "United Arab Emirates",
+      "dates": "2019 - 2022"
+    },
+    {
+      "title": "Welding and Carpenter Works",
+      "company": "NMS Industries",
+      "location": "Ramanathapuram, Tamilnadu",
+      "dates": "2013 - 2016"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor ofComputer Application",
+      "institution": "Syed Hameedha Arts and Science College",
+      "location": "Kilakarai, Ramanathapuarm, Tamilnadu",
+      "dates": "2010 - 2013",
+      "percentage": "70%"
+    },
+    {
+      "degree": "MERN - Full Stock Developmnet",
+      "institution": "Guvi Geek Network Pvt.Ltd",
+      "location": "Chennai",
+      "dates": "Current Batch",
+      "percentage": "Nill"
+    }
+  ],
+  "skills": ["JavaScript", "HTML", "Web tools", "MS Office", "Deep Learning"],
+  "awards": [
+    {
+      "title": "International Award for Security Personnel, Dubai Police Academy",
+      "institution": "The City and Guilds of London Institute",
+      "datte": "January 11th, 2017"
+    },
+    {
+      "title": "Debt Recovery Agent Examination",
+      "institution": "Indian Institute of Banking & Finance",
+      "datte": "July 26th, 2019"
+    }
+  ],
+  "languages": ["Tamil", "English", "Hindi"]
+}
